@@ -1,0 +1,14 @@
+beautifulsoup4==4.8.2
+bs4==0.0.1
+certifi==2019.11.28
+chardet==3.0.4
+h2==2.6.2
+hpack==3.0.0
+hyper==0.7.0
+hyperframe==3.2.0
+idna==2.8
+lxml==4.4.2
+mutagen==1.43.0
+requests==2.22.0
+soupsieve==1.9.5
+urllib3==1.25.7
